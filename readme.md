@@ -12,6 +12,7 @@ Undergraduate student at SMK Telkom Malang majoring in Mobile Software Engineeri
 
 ### Tech Stack 😎
 ![Dart](https://skillicons.dev/icons?i=dart)
+![Java](https://skillicons.dev/icons?i=java)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML](https://skillicons.dev/icons?i=html)
