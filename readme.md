@@ -21,5 +21,6 @@ Undergraduate student at SMK Telkom Malang majoring in Mobile Software Engineeri
 
 ### Get in Touch 🫣
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliilah-kalyca-raniah-099455260/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:aliilahkalica@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/aliilahkalica)
 [![Dribbble](https://img.shields.io/badge/Dribbble-pink?logo=dribbble&logoColor=white)](https://dribbble.com/aliilahkalica)
