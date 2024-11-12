@@ -18,3 +18,8 @@ Undergraduate student at SMK Telkom Malang majoring in Mobile Software Engineeri
 ![HTML](https://skillicons.dev/icons?i=html)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Visual studio](https://skillicons.dev/icons?i=vscode)
+
+## Get in Touch 🫣
+![Linkedln](https://www.linkedin.com/in/aliilah-kalyca-raniah-099455260/)
+![Github](https://github.com/aliilahkalica)
+![Dribble](https://dribbble.com/aliilahkalica)
