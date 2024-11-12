@@ -11,4 +11,4 @@ Undergraduate student at SMK Telkom Malang majoring in Mobile Software Engineeri
 - Top 5 Mage Mobile Development 2023
 
 ### Tech Stack 😎
-(https://skillicons.dev/icons?i=all)(https://skillicons.dev/icons?i=all)(https://skillicons.dev/icons?i=all)(https://skillicons.dev/icons?i=all)()
+![[My skills](https://skillicons.dev/icons?i=dart,flutter,cpp,html,figma)]
