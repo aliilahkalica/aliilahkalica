@@ -9,3 +9,6 @@ Undergraduate student at SMK Telkom Malang majoring in Mobile Software Engineeri
 - 2nd Winner UI UX Design SEFEST 2024
 - 1st Winner Business Plan ENTERSPACE 2024
 - Top 5 Mage Mobile Development 2023
+
+### Tech Stack 😎
+(https://skillicons.dev/icons?i=all)(https://skillicons.dev/icons?i=all)(https://skillicons.dev/icons?i=all)(https://skillicons.dev/icons?i=all)()
